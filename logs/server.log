@@ -1,0 +1,16 @@
+[2024-12-04T12:09:24.723Z] INFO: Starting server...
+[2024-12-04T12:09:24.728Z] INFO: Server is running on http://localhost:4000
+[2024-12-04T12:09:47.510Z] INFO: GET request received for /monitoring/status
+[2024-12-04T12:09:47.511Z] INFO: Fetching monitoring status...
+[2024-12-04T12:09:53.466Z] INFO: POST request received for /monitoring/start
+[2024-12-04T12:09:53.467Z] INFO: Monitoring started
+[2024-12-04T12:09:55.056Z] INFO: POST request received for /monitoring/stop
+[2024-12-04T12:09:55.057Z] INFO: Monitoring stopped
+[2024-12-04T12:41:06.825Z] INFO: Starting server...
+[2024-12-04T12:41:06.830Z] INFO: Server is running on http://localhost:4000
+[2024-12-04T12:49:41.550Z] INFO: Monitoring started
+[2024-12-04T12:49:45.543Z] INFO: Monitoring stopped
+[2024-12-04T12:53:05.381Z] INFO: Monitoring started
+[2024-12-04T12:53:05.751Z] INFO: Monitoring stopped
+[2024-12-04T12:53:07.795Z] INFO: Monitoring started
+[2024-12-04T12:53:08.986Z] INFO: Monitoring stopped
